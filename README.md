@@ -9,6 +9,6 @@ You live, you learn, you move on.
 <img src="https://img.shields.io/badge/Adobe%20Illustrator-323330?style=for-the-badge&logo=adobe%20illustrator&logoColor=FF9A00"/>
 
 ## ⚒️ Tools
-<img src="https://img.shields.io/badge/github-323330?style=for-the-badge&logo=github&logoColor=fff"/> <img src="https://img.shields.io/badge/git-323330?style=for-the-badge&logo=git&logoColor=F05032"/> <img src="https://img.shields.io/badge/notion-323330?style=for-the-badge&logo=notion&logoColor=000000"/> <img src="https://img.shields.io/badge/trello-323330?style=for-the-badge&logo=trello&logoColor=0052CC"/> <img src="https://img.shields.io/badge/slack-323330?style=for-the-badge&logo=slack&logoColor=4A154B"/> <img src="https://img.shields.io/badge/gitbook-323330?style=for-the-badge&logo=gitbook&logoColor=3884FF"/>
+<img src="https://img.shields.io/badge/github-323330?style=for-the-badge&logo=github&logoColor=fff"/> <img src="https://img.shields.io/badge/git-323330?style=for-the-badge&logo=git&logoColor=F05032"/> <img src="https://img.shields.io/badge/notion-323330?style=for-the-badge&logo=notion&logoColor=fff"/> <img src="https://img.shields.io/badge/trello-323330?style=for-the-badge&logo=trello&logoColor=0052CC"/> <img src="https://img.shields.io/badge/slack-323330?style=for-the-badge&logo=slack&logoColor=A100FF"/> <img src="https://img.shields.io/badge/gitbook-323330?style=for-the-badge&logo=gitbook&logoColor=3884FF"/>
 
 
