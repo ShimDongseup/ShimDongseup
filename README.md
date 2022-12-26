@@ -1,4 +1,4 @@
-
+![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=100&section=header&text=WELCOME!%20Dongseup's%20Github&fontSize=18)
 ### Hi there 👋
 You live, you learn, you move on.
 
@@ -13,3 +13,5 @@ You live, you learn, you move on.
 
 ## 📚BLOG
 <a href="https://velog.io/@dkwmspzk"><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=fff"/></a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShimDongseup)](https://github.com/ShimDongseup/github-readme-stats)
