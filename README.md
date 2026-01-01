@@ -2,7 +2,7 @@
 
 
 <!--![Dongseup's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShimDongseup&show_icons=true&theme=transparent) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShimDongseup)](https://github.com/ShimDongseup/github-readme-stats)
+
 
 
 ## 💻 Tech stacks
