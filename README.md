@@ -17,4 +17,4 @@
 <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=fff"/>
 
 ## 📚BLOG
-<a href="https://velog.io/@dkwmspzk"><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=fff"/></a>
+<a href="https://velog.io/@dkwmspzk"><img src="https://img.shields.io/badge/velog 바로가기-20C997?style=for-the-badge&logo=velog&logoColor=fff"/></a>
