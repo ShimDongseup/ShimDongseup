@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=100&section=header&text=안녕하세요!%20프론트엔드%10"&"%20클라우드%20엔지니어%20심동섭입니다😀&fontSize=20)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=100&section=header&text=안녕하세요!%20프론트엔드와%20클라우드를%20공부하는%20심동섭입니다😀&fontSize=20)
 
 
 <!--![Dongseup's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShimDongseup&show_icons=true&theme=transparent) -->
